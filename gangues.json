@@ -1,0 +1,24 @@
+[
+  {
+    "GroupID": 33868346,
+    "MinRank": 1,
+    "GangName": "Horaga's",
+    "MaxHealth": 1200,
+    "GangButtons": ["PlaceHolder"],
+    "NameColor1": [190, 178, 8],
+    "NameColor2": [255, 255, 185],
+    "PatenteColor1": [190, 178, 8],
+    "PatenteColor2": [255, 255, 185]
+  },
+  {
+    "GroupID": 12345678,
+    "MinRank": 2,
+    "GangName": "BalinhaTest",
+    "MaxHealth": 1000,
+    "GangButtons": ["PlaceHolder2"],
+    "NameColor1": [128, 0, 128],
+    "NameColor2": [221, 160, 221],
+    "PatenteColor1": [128, 0, 128],
+    "PatenteColor2": [221, 160, 221]
+  }
+]
